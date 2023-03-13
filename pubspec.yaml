@@ -40,7 +40,7 @@ dependencies:
   flutter_bloc: ^8.1.2
   json_serializable: ^6.5.4
   json_annotation: ^4.7.0
-  dio: ^4.0.6
+  dio: ^5.0.2
   video_player: ^2.6.0
   auto_size_text: ^3.0.0
   dart_vlc:
